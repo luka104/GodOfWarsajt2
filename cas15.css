@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+}
+#navigacija{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    letter-spacing: 2px;
+    word-spacing: 50px;
+    font-size: 22px;
+    padding-left: 50px;
+}
+#pslika{
+    width: 60px;
+    height: 60px;
+    padding-right: 30px;
+}
+#mslika1{
+    height: 670px;
+    width: 105%;
+    display: block;
+}
+.mslike{
+    height: 140px;
+    width: 650px;
+    position: relative;
+}
+#mslika2{
+    align-items: center;
+    margin-left: 15%;
+    bottom: 400px;
+}
+#mslika3{
+    float: right;
+    bottom: 380px;
+    margin-right: 15%;
+}
+#main2{
+   width: 1864;
+   height: 693px;
+}
+#mainslika2{
+    height: 100%;
+}
+#main3slika{
+    width: 100%;
+    height: 550px; 
+}
+#main3naslov{
+    font-style: italic;
+    margin-left: 15%;
+    position: absolute;
+    color: white;
+}
+#main3tekst{
+    color: gray;
+    font-size: 25px;
+    margin-left: 15%;
+    bottom: -750px;
+    position: absolute;
+}
+#lista{
+    position: absolute;
+    color: white;
+    bottom: -1050px;
+    margin-left: 15%;
+    font-size: 20px;
+    list-style-type:square;
+}
+#atreusmain3{
+    position: relative;
+    float: right;
+    bottom: 450px;
+    margin-right: 10%;
+}
+#pcfeatures{
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    bottom: -820px;
+    margin-left: 15%;
+}
+#main4{
+    height: 1000px;
+}
